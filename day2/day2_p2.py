@@ -1,4 +1,4 @@
-from intcode_d2 import Intcode
+from day2.intcode_d2 import Intcode
 from sys import exit
 
 with open('input_day2.txt', 'r') as infile:

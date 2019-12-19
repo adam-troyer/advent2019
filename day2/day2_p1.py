@@ -1,4 +1,4 @@
-from intcode_d2 import Intcode
+from day2.intcode_d2 import Intcode
 
 with open('input_day2.txt', 'r') as infile:
     program = [int(v) for v in infile.read().split(',')]
